@@ -18,7 +18,7 @@ import java.util.List;
  * @date: 2018年6月17日 下午9:11:40 
  */
 public class HouseIndexTemplate {
-	 private Long houseId;
+		private Long houseId;
 
 	    private String title;
 
